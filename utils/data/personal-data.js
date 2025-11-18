@@ -2,7 +2,7 @@ export const personalData = {
   name: "ABU HURRARA ALI",
   profile: '/profile.png',
   designation: "Software ENGINEER",
-  description: "My name is ABU HURRARA. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "My name is Abu Hurrara, and I’m a passionate Backend Engineer who enjoys turning ideas into clean, scalable systems. I’m a fast learner with a strong self-learning mindset, always exploring new technologies and solving real-world problems. I love backend and system design, especially working with Golang, clean architecture, and modern development patterns. I enjoy building reliable web applications, integrating services, and writing code that’s simple, maintainable, and built to last. I’m open to any opportunity that aligns with my skills, interests, and growth as an engineer.",
   email: 'abuhurrara1093@gmail.com',
   phone: '+92 3317191001',
   address: 'Bahria Town, Lahore, Pakistan',
